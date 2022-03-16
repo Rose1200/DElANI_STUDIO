@@ -7,7 +7,7 @@
   Project is written by Rose Kamau .
 
   # Technologies
-    The following technologies were used during the developement process:
+    The following are the technologies used in the making process :
     1. Jquery
     2. CSS
     3. Bootstrap 5
