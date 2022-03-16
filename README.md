@@ -23,6 +23,10 @@
 
   # Contact
     You can contact me through email:rose.kamau@student.moringaschool.com
-
- # License Information.
+    
+#licence information
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  
+
+
