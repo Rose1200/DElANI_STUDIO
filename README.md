@@ -4,7 +4,7 @@
  This project is all about Delani studio. Its showcasing what we are all about and how you can reach us.
 
  # Author
-  Project is written by Rose Kamau for Delani Studio.
+  Project is written by Rose Kamau .
 
   # Technologies
     The following technologies were used during the developement process:
