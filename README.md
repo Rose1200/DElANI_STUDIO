@@ -21,7 +21,7 @@
   You can also access the live site at https://rose1200.github.io/DElANI_STUDIO/
 
   # Contact
-    You can contact us through mail: info@delanistudio.com.
+    You can contact me through email:rose.kamau@student.moringaschool.com
 
  # License Information.
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
