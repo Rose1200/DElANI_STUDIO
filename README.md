@@ -5,6 +5,7 @@
 
  # Author
   Project is written by Rose Kamau .
+  A young software developer still studying @ moringa school .
 
   # Technologies
     The following are the technologies used in the making process :
